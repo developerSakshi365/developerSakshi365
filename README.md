@@ -24,7 +24,8 @@
 
 ### 🧰 Tools & Software
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,netbeans,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,visualstudio" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" height="40" />
 </p>
 
 ---
