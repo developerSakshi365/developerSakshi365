@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year BSc IT student with hands-on experience **Java, Python, JavaScript, React, Node.js, and databases**  
-- 💻 Passionate about building practical web applications and exploring full-stack development through personal and academic projects  
-- 🚀 Actively seeking internship and project-based opportunities to apply my skills in real-world environments and contribute to impactful solutions  
-- ⚡ Fun fact: **I love experimenting with new technologies and improving my problem-solving skills**
+- 🎓 Final-year BSc IT student with hands-on experience **Java, Python, JavaScript, React, Node.js, and databases.**  
+- 💻 Passionate about building practical web applications and exploring full-stack development through personal and academic projects.  
+- 🚀 Actively seeking internship and project-based opportunities to apply my skills in real-world environments and contribute to impactful solutions.  
+- ⚡ Fun fact: **I love experimenting with new technologies and improving my problem-solving skills.**
 
 ---
 
@@ -48,9 +48,9 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B6oGN8hkwSsSPbqcXcm0J6w%3D%3D" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/sakshi-vishwakarma-21098b27b" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
+</a>
   <a href="mailto:developersakshi365@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" />
   </a>
@@ -59,7 +59,7 @@
 ---
 
 ### 🚀 What I’m Learning
-- Improving **React.js and Node.js** skills  
-- Practicing **Java, Python, and C/C++** coding  
-- Exploring **databases like MySQL and MongoDB**  
-- Building **projects to gain real-world experience**
+- Improving **React.js and Node.js** skills.  
+- Practicing **Java, Python, and C/C++** coding.  
+- Exploring **databases like MySQL and MongoDB.**  
+- Building **projects to gain real-world experience.**
