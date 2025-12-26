@@ -36,14 +36,18 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerSakshi365&show_icons=true&theme=tokyonight" />
-</p>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerSakshi365&theme=tokyonight" />
-</p>
+![snake animation](https://github.com/developerSakshi365/developerSakshi365/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=developerSakshi365&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=developerSakshi365&theme=tokyonight)
+
 
 ---
 
