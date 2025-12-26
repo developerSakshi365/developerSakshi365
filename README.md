@@ -42,11 +42,18 @@
 
 ---
 
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developerSakshi365&theme=tokyo-night)
+
+---
+
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=developerSakshi365&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerSakshi365&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=developerSakshi365&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developerSakshi365&theme=tokyonight&hide_border=true)
+
 
 
 ---
