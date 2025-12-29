@@ -49,12 +49,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerSakshi365&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developerSakshi365&theme=tokyonight&hide_border=true)
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=developerSakshi365&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -75,3 +72,7 @@
 - Practicing **Java, Python, and C/C++** coding.  
 - Exploring **databases like MySQL and MongoDB.**  
 - Building **projects to gain real-world experience.**
+
+### 💬 Daily Commitment
+Coding, learning, and improving — every single day.
+
